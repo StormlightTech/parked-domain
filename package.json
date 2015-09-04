@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-parked-domain",
+  "version": "1.0.0",
+  "description": "Node.js Parked Domain",
+  "main": "app.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipesabino/parked-domain.git"
+  },
+  "keywords": [
+    "parked",
+    "domain",
+    "google",
+    "ads",
+    "analytics",
+    "adwords"
+  ],
+  "author": "Felipe Sabino <felipe@sabino.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipesabino/parked-domain/issues"
+  },
+  "homepage": "https://github.com/felipesabino/parked-domain",
+  "dependencies": {
+    "consolidate": "0.13.1",
+    "express": "4.13.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "foreman": "^1.4.1"
+  }
+}
