@@ -11,6 +11,8 @@ Layout from [rchrd2's minimalist html5 template](https://github.com/rchrd2/parke
 
 ## Running
 
+If it is your first deploy, create a `.env` file with a `PORT` variable indicating which port will be listened, or rename the `.env.sample` file to `.env`
+
 ```
 $ npm install
 $ npm start
