@@ -1,4 +1,4 @@
-nodejs-parked-domain
+nodejs-parked-domain [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 =============
 
 A Node.js application to serve multiple parked domains.
