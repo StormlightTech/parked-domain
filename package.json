@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felipesabino/parked-domain.git"
+    "url": "git+https://github.com/Ubiquitous-Studios/parked-domain.git"
   },
   "keywords": [
     "parked",
@@ -18,12 +18,12 @@
     "analytics",
     "adwords"
   ],
-  "author": "Felipe Sabino <felipe@sabino.me>",
+  "author": "ItsAGeekThing <itsageekthing@ubiquitous.studio>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/felipesabino/parked-domain/issues"
+    "url": "https://github.com/Ubiquitous-Studios/parked-domain/issues"
   },
-  "homepage": "https://github.com/felipesabino/parked-domain",
+  "homepage": "https://github.com/Ubiquitous-Studios/parked-domain",
   "dependencies": {
     "consolidate": "0.13.1",
     "express": "4.13.3",
