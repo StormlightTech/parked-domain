@@ -20,5 +20,5 @@ var port = process.env.PORT || 3000
 var server = app.listen(port, function () {
   var port = server.address().port;
 
-  console.log('Example app listening at port %s', port);
+  console.log('Parked Domain app listening at port %s', port);
 });
